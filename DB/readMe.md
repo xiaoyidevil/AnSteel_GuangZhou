@@ -7,4 +7,4 @@ encrypt dbConnStr=RUFBQUFMRjRtbS83TDlzUFM3MlZIUWNHUVFaV3ZWaTdyVTZGS1Ixc2dXSlJlR3
 new:------------------------------------------------------------------------------------------------------------------------------
 decrypt dbConnStr=Data Source=.;Initial Catalog=AnSteel;uid=sa;password=dbserversa;MultipleActiveResultSets=true;
 
-encrypt dbConnStr=RUFBQUFEdzdncDFvMlNpS1g5NmNpVjd3c0x3NXVmOHZmM0ZvZUR1cE5iT0F1UGhDRDlrZWRtdlRSWXVHRTRwZ21tWWRHM1BUVUswc1ZYKzZhVkZ1bG9RZWJDS2VCQnh5cXpIQ3hvZ1o2eWc0ZkFsTVo4NHRJbUlJc09VY01OQ1NoWU8rTXZacG9xYnlnVUIvTnpnTzdmYlRFWGNSRW5UYTBMOWVORVpCLytMVzZkeWU=
+encrypt dbConnStr=RUFBQUFKdXlRYlk1dWFQUnpJL1ZwazFwVFZtMzNPQUlvM0kwd09sNHdPUGR5cFJibEUzQWFlZUF5eUdpUnFjLzF0TStIVTI5YnVPa3hVaWFYaVE4VVExUEMrVHFMUjFianFYNWpPeXBPT3lrTjcxTFhNOW9mdkpXQ2JKcmlyckpRWFJ5M3JjelpzWUNqZkcwR1pkc0dJYzI0NDA9
