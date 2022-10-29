@@ -55,3 +55,5 @@ SELECT TOP (@PerPageResults) A.* ,
                                 LEFT JOIN WeChatUser AS SS_WU ON SS_WU.Id = A.ShipStaffId
                                 LEFT JOIN EntryApplication AS EA ON EA.Id = A.EntryApplicationId
                                 LEFT JOIN Dict AS D ON D.DictType ='EntryGate' AND D.DictValue = EA.EntryGate
+
+WHERE RowNumber > 20
