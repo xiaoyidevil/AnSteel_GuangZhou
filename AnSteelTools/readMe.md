@@ -57,3 +57,5 @@ SELECT TOP (@PerPageResults) A.* ,
                                 LEFT JOIN Dict AS D ON D.DictType ='EntryGate' AND D.DictValue = EA.EntryGate
 
 WHERE RowNumber > 20
+
+ SELECT * FROM WeighingRecord WHERE ShippingListId IN ({shippingListIds}) AND IsUsing = 1 AND WeighingTime IS NOT NULL 
